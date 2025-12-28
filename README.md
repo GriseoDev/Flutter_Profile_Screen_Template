@@ -14,7 +14,8 @@ It automatically adapts to light and dark themes based on the app’s theme conf
 - Clean, readable Flutter code
 
 ## Screenshots
-![Profile Screen](screenshots/screenshot_1.png) 
+![Profile Screen](screenshots/screenshot_1.png)
+![Logout Dialog](screenshots/screenshot_2.png)
 
 (Add screenshots here)
 
