@@ -1,5 +1,7 @@
 # Flutter Profile Screen (Material 3)
 
+## Free preview – full UI kit on Gumroad
+
 A clean, production-ready Profile Screen for Flutter apps, built with Material 3 and designed for real-world use.
 
 This screen focuses on clarity, extensibility, and modern UI practices.  
