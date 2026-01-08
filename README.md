@@ -7,6 +7,9 @@ A clean, production-ready Profile Screen for Flutter apps, built with Material 3
 This screen focuses on clarity, extensibility, and modern UI practices.  
 It automatically adapts to light and dark themes based on the app’s theme configuration.
 
+Full template available on Gumroad:  
+👉 [https://griseo.gumroad.com/l/dev-flutter-statistics-screen](https://griseo.gumroad.com/l/dev-flutter-profile-screen-template)
+
 ## Features
 - Profile header with avatar
 - User information section
